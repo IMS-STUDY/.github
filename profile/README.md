@@ -1,4 +1,4 @@
-# 스터디명 : 미정
+# TUK-education-java = Te java
 
 
 ## 스터디 소개
