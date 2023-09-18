@@ -4,6 +4,7 @@
 * [자바](https://github.com/2023-java-study/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%EC%9E%90%EB%B0%94) (2023.09 ~)
 
 ### 완료한 스터디
+* 
 
 ## 스터디 팀원
 
