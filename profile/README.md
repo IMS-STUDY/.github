@@ -1,13 +1,16 @@
 ## Hi there 👋
 
-<!--
+## 나 JAVA봐라~ [자바 스터디]
 
-**Here are some ideas to get you started:**
+### 진행 중인 스터디
+* [[북 스터디] 이펙티브 자바](https://github.com/2023-java-study/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%EC%9E%90%EB%B0%94) (2023.09 ~)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-https://github.com/2023-java-study/whiteship-java-studyhttps://github.com/2023-java-study/whiteship-java-study
+### 완료한 스터디
+
+## 스터디 팀원
+
+| 멤버 |
+| :---: |
+| [김상규](https://github.com/ggyu0629) |
+| [염예찬](https://github.com/yyechan0602) |
+| [조은상](https://github.com/JoEunSang) |
