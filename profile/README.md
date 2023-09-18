@@ -34,4 +34,4 @@
 ## 진행상황
 | 스터디 회차 | 학습 주제 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
-| 1회차 | [1주차](https://github.com/whiteship/live-study/issues/1), [2주차](https://github.com/whiteship/live-study/issues/2) | 2023.01.10 (화) | ✅ |
+| 1회차 | [1주차](https://github.com/whiteship/live-study/issues/1), [2주차](https://github.com/whiteship/live-study/issues/2) | 2023.01.10 (화) | |
