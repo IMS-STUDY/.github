@@ -11,6 +11,10 @@
 | [김상규](https://github.com/ggyu0629) |
 | [염예찬](https://github.com/yyechan0602) |
 | [조은상](https://github.com/JoEunSang) |
+| [방남현](https://github.com/bnh5992) |
+| [이종재](https://github.com/dlwhdwo37) |
+| [박윤진](https://github.com/qkrbswls) |
+| [김나현](https://github.com/bluewing0303) |
 
 
 ## 스터디 진행 방식
@@ -31,7 +35,8 @@
 1. 발표자는 본인이 발표한 내용과 Issue에 기록된 질문들을 모아 토론한다.
 2. 최종 토론본에는 발표자의 자료와 기록된 질문에 대한 답변을 병합하여 주차 폴더에 업로드한다.
 
+
 ## 진행상황
 | 스터디 회차 | 학습 주제 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
-| 1회차 | [1주차](https://github.com/whiteship/live-study/issues/1), [2주차](https://github.com/whiteship/live-study/issues/2) | 2023.01.10 (화) | |
+| 1회차 | [1주차](https://github.com/whiteship/live-study/issues/1), [2주차](https://github.com/whiteship/live-study/issues/2) | 2023.9.25 (월) | |
