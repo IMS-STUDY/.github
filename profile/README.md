@@ -12,6 +12,7 @@
 | [염예찬](https://github.com/yyechan0602) |
 | [조은상](https://github.com/JoEunSang) |
 | [방남현](https://github.com/bnh5992) |
+| [정소영](https://github.com/abbiddo) |
 | [이종재](https://github.com/dlwhdwo37) |
 | [박윤진](https://github.com/qkrbswls) |
 | [김나현](https://github.com/bluewing0303) |
@@ -40,4 +41,4 @@
 ## 진행상황
 | 스터디 회차 | 학습 주제 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
-| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2023.9.25 (월) | |
+| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2023.9.25 (월) |✔️|
