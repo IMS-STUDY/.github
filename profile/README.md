@@ -42,3 +42,4 @@
 | 스터디 회차 | 학습 주제 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
 | 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2023.9.25 (월) |✔️|
+| 2회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2023.10.10 (화) |✔️|
