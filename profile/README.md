@@ -46,3 +46,5 @@
 | :---: | :---: | :---: | :---: |
 | 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2023.9.25 (월) |✔️|
 | 2회차 | [2주차](https://github.com/TUK-education-java/study/issues/3) | 2023.10.10 (화) |✔️|
+| 3회차 | [3주차](https://github.com/TUK-education-java/study/issues/5) | 2023.10.16 (월) |✔️|
+| 4회차 | [4주차](https://github.com/TUK-education-java/study/issues/7) | 2023.10.30 (월) |✔️|
