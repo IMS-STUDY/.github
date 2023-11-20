@@ -48,3 +48,6 @@
 | 2회차 | [2주차](https://github.com/TUK-education-java/study/issues/3) | 2023.10.10 (화) |✔️|
 | 3회차 | [3주차](https://github.com/TUK-education-java/study/issues/6) | 2023.10.16 (월) |✔️|
 | 4회차 | [4주차](https://github.com/TUK-education-java/study/issues/8) | 2023.10.30 (월) |✔️|
+| 5회차 | [5주차](https://github.com/TUK-education-java/study/issues/10) | 2023.11.06 (월) |✔️|
+| 6회차 | [6주차](https://github.com/TUK-education-java/study/issues/12) | 2023.11.13 (월) |✔️|
+| 7회차 | [7주차](https://github.com/TUK-education-java/study/issues/14) | 2023.11.20 (월) |✔️|
