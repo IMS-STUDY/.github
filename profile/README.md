@@ -6,6 +6,8 @@
 
 <br>
 
+## IMS 멤버 소개
+
 | IMS 멤버 | 레포지토리 |
 | :---: | :---: |
 | 김상규 | [GitHub](https://github.com/ggyu0629) |
