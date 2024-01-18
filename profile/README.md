@@ -5,16 +5,16 @@
  - 특정 책이나 커리큘럼을 따라 진행합니다.
 
 
-| 스터디 멤버 |
-| :---: |
-| [김상규](https://github.com/ggyu0629) |
-| [염예찬](https://github.com/yyechan0602) |
-| [조은상](https://github.com/JoEunSang) |
-| [방남현](https://github.com/bnh5992) |
-| [정소영](https://github.com/abbiddo) |
-| [이종재](https://github.com/dlwhdwo37) |
-| [박윤진](https://github.com/qkrbswls) |
-| [김나현](https://github.com/bluewing0303) |
+| 스터디 멤버 | 레포지토리 |
+| :---: | :---: |
+| 김상규 | [GitHub](https://github.com/ggyu0629) |
+| 염예찬 | [GitHub](https://github.com/yyechan0602) |
+| 조은상 | [GitHub](https://github.com/JoEunSang) |
+| 방남현 | [GitHub](https://github.com/bnh5992) |
+| 정소영 | [GitHub](https://github.com/abbiddo) |
+| 이종재 | [GitHub](https://github.com/dlwhdwo37) |
+| 박윤진 | [GitHub](https://github.com/qkrbswls) |
+| 김나현 | [GitHub](https://github.com/bluewing0303) |
 
 
 ## 스터디 진행 방식
