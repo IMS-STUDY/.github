@@ -5,7 +5,7 @@
  - 특정 책이나 커리큘럼을 따라 진행합니다.
 
 
-| 스터디 멤버 | 레포지토리 |
+| IMS 멤버 | 레포지토리 |
 | :---: | :---: |
 | 김상규 | [GitHub](https://github.com/ggyu0629) |
 | 염예찬 | [GitHub](https://github.com/yyechan0602) |
