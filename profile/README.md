@@ -1,4 +1,4 @@
-# IMS STUDY
+# IMS-STUDY
 
 ## 스터디 소개
  - IMS 멤버가 모여서 진행하는 스터디입니다.
