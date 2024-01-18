@@ -40,14 +40,8 @@
 
 <br>
 
-## 스터디 중간 점검 시험
-1. 3회차를 기준으로 중간 점검 시험을 실시한다.
-2. 시험은 카훗(kahoot)을 사용하여 문제를 출제하고, O-X 퀴즈 및 4지선다 문제로 개념 위주이며, 복습에 의미를 둔다. 
-
-<br>
-
 ## 진행상황
 | 스터디 주제 | Repository | 스터디 시작 일자 | 스터디 종료 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: | :---: |
-| 자바 | [Java-Study](https://github.com/IMS-STUDY/Java-Study) | 2023.9.25 (월) | 2023.11.20 (월) | ✔️(종료) |
-| 자바 | [Java-Study](https://github.com/IMS-STUDY/Docker-Study) | 2024.1.22 (월) | 2024.2.24 (월) | 💱(진행중) |
+| Java | [Java-Study](https://github.com/IMS-STUDY/Java-Study) | 2023.9.25 (월) | 2023.11.20 (월) | ✔️(종료) |
+| Docker | [Docker-Study](https://github.com/IMS-STUDY/Docker-Study) | 2024.1.22 (월) | 2024.2.24 (월) | 💱(진행중) |
