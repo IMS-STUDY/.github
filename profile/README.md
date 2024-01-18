@@ -49,4 +49,5 @@
 ## 진행상황
 | 스터디 주제 | Repository | 스터디 시작 일자 | 스터디 종료 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: | :---: |
-| 자바 | [Java-Study](https://github.com/TUK-education-java/Java-Study) | 2023.9.25 (월) | 2023.11.20 (월) | ✔️(종료) |
+| 자바 | [Java-Study](https://github.com/IMS-STUDY/Java-Study) | 2023.9.25 (월) | 2023.11.20 (월) | ✔️(종료) |
+| 자바 | [Java-Study](https://github.com/IMS-STUDY/Docker-Study) | 2024.1.22 (월) | 2024.2.24 (월) | 💱(진행중) |
