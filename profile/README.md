@@ -1,9 +1,8 @@
-# TUK-education-java = Te java
-
+# IMS STUDY
 
 ## 스터디 소개
- - 자바 기본 개념부터 깊은 이해까지 학습하기 위한 스터디입니다.
- - 개발자 백기선님의 [자바 스터디의 커리큘럼](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)을 따라 진행합니다.
+ - IMS 멤버가 모여서 진행하는 스터디입니다.
+ - 특정 책이나 커리큘럼을 따라 진행합니다.
 
 
 | 스터디 멤버 |
@@ -42,12 +41,6 @@
 2. 시험은 카훗(kahoot)을 사용하여 문제를 출제하고, O-X 퀴즈 및 4지선다 문제로 개념 위주이며, 복습에 의미를 둔다. 
 
 ## 진행상황
-| 스터디 회차 | 학습 주제 | 스터디 (예정) 일자 | 진행 여부 |
+| 스터디 주제 | 스터디 시작 일자 | 스터디 종료 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
-| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2023.9.25 (월) |✔️|
-| 2회차 | [2주차](https://github.com/TUK-education-java/study/issues/3) | 2023.10.10 (화) |✔️|
-| 3회차 | [3주차](https://github.com/TUK-education-java/study/issues/6) | 2023.10.16 (월) |✔️|
-| 4회차 | [4주차](https://github.com/TUK-education-java/study/issues/8) | 2023.10.30 (월) |✔️|
-| 5회차 | [5주차](https://github.com/TUK-education-java/study/issues/10) | 2023.11.06 (월) |✔️|
-| 6회차 | [6주차](https://github.com/TUK-education-java/study/issues/12) | 2023.11.13 (월) |✔️|
-| 7회차 | [7주차](https://github.com/TUK-education-java/study/issues/14) | 2023.11.20 (월) |✔️|
+| 자바 | [Java-Study](https://github.com/TUK-education-java/Java-Study) | 2023.9.25 (월) | ✔️ |
