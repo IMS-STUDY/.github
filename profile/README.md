@@ -46,4 +46,3 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Java | [Java-Study](https://github.com/IMS-STUDY/Java-Study) | 2023.9.25 (월) | 2023.11.20 (월) | ✔️(종료) |
 | Docker | [Docker-Study](https://github.com/IMS-STUDY/Docker-Study) | 2024.1.22 (월) | 2024.2.24 (월) | ✔️(종료) |
-| TCP-Server | [Game_Server-STUDY](https://github.com/IMS-STUDY/Game_Server-STUDY) | 2024.1.26 (월) | 2024.2.26 (월) | ✔️(종료) |
