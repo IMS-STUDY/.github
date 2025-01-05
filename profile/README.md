@@ -6,22 +6,6 @@
 
 <br>
 
-## IMS 멤버 소개
-
-| IMS 멤버 | 레포지토리 |
-| :---: | :---: |
-| 김상규 | [GitHub](https://github.com/ggyu0629) |
-| 염예찬 | [GitHub](https://github.com/yyechan0602) |
-| 조은상 | [GitHub](https://github.com/JoEunSang) |
-| 방남현 | [GitHub](https://github.com/bnh5992) |
-| 정소영 | [GitHub](https://github.com/abbiddo) |
-| 이종재 | [GitHub](https://github.com/dlwhdwo37) |
-| 박윤진 | [GitHub](https://github.com/qkrbswls) |
-| 김나현 | [GitHub](https://github.com/bluewing0303) |
-| 김동현 | [GitHub](https://github.com/belfly1111)  |
-
-<br>
-
 ## 스터디 진행 방식  
 - 스터디는 학습할 주제가 생길 시 인원을 모집하여 진행합니다.
 - 모든 스터디는 이론, 실습으로 구성된 주제를 키워드 형식으로 정리하여 공유한 뒤 학습한 내용을 토의합니다.
