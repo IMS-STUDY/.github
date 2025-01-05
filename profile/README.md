@@ -30,3 +30,5 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Java | [Java-Study](https://github.com/IMS-STUDY/Java-Study) | 2023.9.25 (월) | 2023.11.20 (월) | ✔️(종료) |
 | Docker | [Docker-Study](https://github.com/IMS-STUDY/Docker-Study) | 2024.1.22 (월) | 2024.2.24 (월) | ✔️(종료) |
+| AI-Study | [AI-Study](https://github.com/IMS-STUDY/AI-Study) | 2024.5.6 (월) | 2024.8.19 (월) | ✔️(종료) |
+| Deep Learning Architecture | [Deep Learning]() | 2024.5.6 (월) | 2024.12.27 (월) |  |
